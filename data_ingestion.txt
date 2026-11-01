@@ -4,5 +4,4 @@ Hey, i'm ingesting the data in this file.
 Hey, Rounak here, i'm working on data_ingestion in master node.
 
 
-Hey there! i got it, you are still mad, hahahaa.
 Hey rounak here, im learning to fix bugs.
